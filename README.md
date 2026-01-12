@@ -1,23 +1,24 @@
 <h3 align="center">I'm Henrique Frisso</h3>
-<h4 align="center">Information Systems Student • Software Developer</h>
+<h4 align="center">Information Systems Student • Software Developer</h4>
 
----
+<hr>
 
 ### 💻 About Me  
 🎓 Technical degree in **Internet Computing (Informática para Internet) – IFES**  
 🎓 Bachelor's student in **Information Systems at IFES**  
-💻 Focused on **Software Development**, algorithms, and system design  
-🧠 Strong interest in **Artificial Intelligence**, multi-agent systems, and applied research  
+💻 Focused on **software development**, algorithms, and system design  
+🧠 Strong interest in **artificial intelligence**, multi-agent systems, and applied research  
 🚀 Always learning, building projects, and seeking new challenges  
 
----
+<hr>
+
 ### 🌎 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_frisso/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/henrique-frisso-oliveira-5ba0a7273)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8393-8958)
 <!-- [![Lattes](https://img.shields.io/badge/Lattes-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white)](http://lattes.cnpq.br/SEU_ID_LATTES) -->
 
----
+<hr>
 
 ### 🚀 Technologies I’m Learning & Using  
 
@@ -51,18 +52,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
----
+<hr>
 
 ### 🏆 RoboCup Soccer Simulation 2D  
 
-- 🤖 Member of a **TITÃS DA ROBÓTICA** team  
+- 🤖 Member of the **TITÃS DA ROBÓTICA** team  
 - 🧠 Development of autonomous soccer agents using **C++**  
 - 📊 Strategy design, behavior modeling, and match performance analysis  
 - ⚙️ Experience with **multi-agent systems**, decision-making algorithms, and optimization  
 
 #### 🏅 Achievements  
 - 🏆 **Champion** – CBR (Brazilian RoboCup) 2025  
-- 🌍 **Participant** – RoboCup 2025 (International Competition) 
+- 🌍 **Participant** – RoboCup 2025 (International Competition)  
 - 🥈 **Second Place** – CBR (Brazilian RoboCup) 2024  
 
 📚 Experience aligned with research topics such as:
@@ -70,20 +71,18 @@
 - Multi-Agent Systems  
 - Decision Support Systems  
 
----
+<hr>
 
 ### 📌 Featured Projects  
--  **RoboCup Soccer Simulation 2D** – Autonomous AI agents using C++  
--  **Researcher** – Author of a scientific article in Information Systems / Computer Science  
--  **Arduino-Based Systems** – Sensors, LCD, EEPROM, RTC  
--  **Java Swing Applications** – Desktop systems and academic projects  
+- **RoboCup Soccer Simulation 2D** – Autonomous AI agents using C++  
+- **Researcher** – Author of a scientific article in Information Systems / Computer Science   
 
----
+<hr>
 
 ### 📄 Publications  
 ![Publications](https://img.shields.io/badge/Publications-1-1f2937?style=for-the-badge&logo=googlescholar&logoColor=4CAF50)
 
----
+<hr>
 
 ### 📊 GitHub Metrics  
 ![Followers](https://img.shields.io/github/followers/HenriqueFrisso?style=for-the-badge&logo=github&color=1f2937)
