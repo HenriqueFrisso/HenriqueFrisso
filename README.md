@@ -37,6 +37,7 @@
 ![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ##### Mobile  
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=for-the-badge&logo=flutter&logoColor=02569B)
@@ -56,7 +57,7 @@
 
 ### 🏆 RoboCup Soccer Simulation 2D  
 
-- 🤖 Member of the **TITÃS DA ROBÓTICA** team  
+- 🤖 Member of the **TITÃS DA ROBÓTICA** team (2024–2026)  
 - 🧠 Development of autonomous soccer agents using **C++**  
 - 📊 Strategy design, behavior modeling, and match performance analysis  
 - ⚙️ Experience with **multi-agent systems**, decision-making algorithms, and optimization  
