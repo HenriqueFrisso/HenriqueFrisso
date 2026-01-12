@@ -1,39 +1,91 @@
-<h1 align="center">Hi 👋, I'm Henrique Frisso</h1>
-<h3 align="center">Information Systems Student & Software Developer</h3>
-
-
-# 💻 About Me  
-🎓 Bachelor's student in **Information Systems at IFES**  
-💻 Focused on **Software Development**, algorithms and system design  
-🚀 Always learning, building projects and seeking new challenges  
-
-
-<!-- <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+Profile!;Software+Development+Enthusiast;C%2B%2B+%7C+Java+%7C+Flutter+%7C+Python" />
-</h2> -->
-
-## 🌎 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_frisso/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/henrique-frisso-oliveira-5ba0a7273)  
-
-## 🚀 Technologies I’m Learning & Using  
-### 🧠 Main Stack:  
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-### 🔧 Other Technologies:  
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<h3 align="center">I'm Henrique Frisso</h3>
+<h4 align="center">Information Systems Student • Software Developer</h>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Researcher** – Author of a scientific article related to Information Systems / Computer Science  
-- 🔹 **RoboCup Soccer Simulation 2D** – AI agents using C++
-- 🔹 **Arduino Systems** – Sensors, LCD, EEPROM, RTC
-- 🔹 **Java Swing Applications** – Desktop systems
+### 💻 About Me  
+🎓 Technical degree in **Internet Computing (Informática para Internet) – IFES**  
+🎓 Bachelor's student in **Information Systems at IFES**  
+💻 Focused on **Software Development**, algorithms, and system design  
+🧠 Strong interest in **Artificial Intelligence**, multi-agent systems, and applied research  
+🚀 Always learning, building projects, and seeking new challenges  
 
+---
+### 🌎 Connect with Me  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_frisso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/henrique-frisso-oliveira-5ba0a7273)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8393-8958)
+<!-- [![Lattes](https://img.shields.io/badge/Lattes-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white)](http://lattes.cnpq.br/SEU_ID_LATTES) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenriqueFrisso&color=green)
+---
+
+### 🚀 Technologies I’m Learning & Using  
+
+#### 🧠 Main Stack  
+![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+#### 🛠️ Other Tools & Technologies  
+
+##### Frontend  
+![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+##### Backend  
+![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB)
+
+##### Mobile  
+![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-1f2937?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+##### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=316192)
+
+##### DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+---
+
+### 🏆 RoboCup Soccer Simulation 2D  
+
+- 🤖 Member of a **TITÃS DA ROBÓTICA** team  
+- 🧠 Development of autonomous soccer agents using **C++**  
+- 📊 Strategy design, behavior modeling, and match performance analysis  
+- ⚙️ Experience with **multi-agent systems**, decision-making algorithms, and optimization  
+
+#### 🏅 Achievements  
+- 🏆 **Champion** – CBR (Brazilian RoboCup) 2025  
+- 🌍 **Participant** – RoboCup 2025 (International Competition) 
+- 🥈 **Second Place** – CBR (Brazilian RoboCup) 2024  
+
+📚 Experience aligned with research topics such as:
+- Artificial Intelligence  
+- Multi-Agent Systems  
+- Decision Support Systems  
+
+---
+
+### 📌 Featured Projects  
+-  **RoboCup Soccer Simulation 2D** – Autonomous AI agents using C++  
+-  **Researcher** – Author of a scientific article in Information Systems / Computer Science  
+-  **Arduino-Based Systems** – Sensors, LCD, EEPROM, RTC  
+-  **Java Swing Applications** – Desktop systems and academic projects  
+
+---
+
+### 📄 Publications  
+![Publications](https://img.shields.io/badge/Publications-1-1f2937?style=for-the-badge&logo=googlescholar&logoColor=4CAF50)
+
+---
+
+### 📊 GitHub Metrics  
+![Followers](https://img.shields.io/github/followers/HenriqueFrisso?style=for-the-badge&logo=github&color=1f2937)
+![Stars](https://img.shields.io/github/stars/HenriqueFrisso?style=for-the-badge&logo=github&color=1f2937)
+![Profile Views](https://komarev.com/ghpvc/?username=HenriqueFrisso&style=for-the-badge&color=1f2937)
