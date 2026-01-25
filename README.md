@@ -48,9 +48,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=316192)
 
 ##### DevOps & Tools  
+![Linux](https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1f2937?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 <hr>
