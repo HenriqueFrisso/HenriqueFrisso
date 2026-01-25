@@ -24,6 +24,8 @@
 
 #### 🧠 Main Stack  
 ![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB)
 
 #### 🛠️ Other Tools & Technologies  
 
@@ -35,8 +37,6 @@
 
 ##### Backend  
 ![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ##### Mobile  
