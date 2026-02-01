@@ -31,13 +31,17 @@
 
 ##### Frontend  
 ![React](https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
 
 ##### Backend  
 ![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ##### Mobile  
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=for-the-badge&logo=flutter&logoColor=02569B)
