@@ -74,9 +74,9 @@
 - ⚙️ Experience with **multi-agent systems**, decision-making algorithms, and optimization  
 
 #### 🏅 Achievements  
-- 🏆 **Champion** – CBR (Brazilian RoboCup) 2025  
-- 🌍 **Participant** – RoboCup 2025 (International Competition)  
+- 🏆 **Champion** – CBR (Brazilian RoboCup) 2025   
 - 🥈 **Second Place** – CBR (Brazilian RoboCup) 2024  
+- 🥈 **Second Place** – IronCup 2026  
 
 📚 Experience aligned with research topics such as:
 - Artificial Intelligence  
