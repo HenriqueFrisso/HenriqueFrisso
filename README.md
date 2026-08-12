@@ -77,6 +77,7 @@
 - 🏆 **Champion** – CBR (Brazilian RoboCup) 2025   
 - 🥈 **Second Place** – CBR (Brazilian RoboCup) 2024  
 - 🥈 **Second Place** – IronCup 2026  
+- 🥉 **Third Place** -RoboCup 2026 (Incheon, South Korea)  
 
 📚 Experience aligned with research topics such as:
 - Artificial Intelligence  
