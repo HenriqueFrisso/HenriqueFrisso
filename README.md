@@ -22,7 +22,7 @@
 
 <hr>
 
-### 🚀 Technologies I’m Learning & Using  
+### 🚀 Technologies & Tools
 
 #### 🧠 Main Stack  
 ![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=00599C)
@@ -46,6 +46,11 @@
 ![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1f2937?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring](https://img.shields.io/badge/Spring-1f2937?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-1f2937?style=for-the-badge&logo=hibernate&logoColor=BCAE79)
+![Maven](https://img.shields.io/badge/Maven-1f2937?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+![CMake](https://img.shields.io/badge/CMake-1f2937?style=for-the-badge&logo=cmake&logoColor=064F8C)
 
 ##### Mobile  
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=for-the-badge&logo=flutter&logoColor=02569B)
@@ -55,14 +60,28 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-1f2937?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ##### DevOps & Tools  
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1f2937?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1f2937?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![GitLab](https://img.shields.io/badge/GitLab-1f2937?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![WSL](https://img.shields.io/badge/WSL-1f2937?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+### 🔬 Research Interests
+
+- Artificial Intelligence
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Information Retrieval
+- Code Retrieval
+- Autonomous Agents
+- Software Engineering
 
 <hr>
 
